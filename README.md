@@ -24,4 +24,4 @@
 
 ### Использованные библиотеки:
 
-pandas, numpy, matplotlib, plotly, scipy
+pandas, numpy, matplotlib, plotly, scipy, requests, io
